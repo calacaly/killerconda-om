@@ -1,0 +1,1 @@
+echo "background debug" > ~/background.log 
